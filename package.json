@@ -1,0 +1,11 @@
+{
+  "name": "esel-mobil-hesaplama",
+  "version": "1.0.0",
+  "description": "EŞEL MOBİL HESAPLAMA",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
